@@ -1,0 +1,9 @@
+[general]
+test_item = true
+
+[database]
+DB_PATH = "~/.fg/fg.db"
+
+[hashing]
+HASH_ALGO = "sha256"
+CHUNK_SIZE = 65536
